@@ -1,1 +1,1 @@
-CardName isNVIDIA GeForce GTX 1050 Ti, Memory amount is 3072
+CardName isNVIDIA GeForce RTX 2080 SUPER, Memory amount is 3072

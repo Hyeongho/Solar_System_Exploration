@@ -1,0 +1,35 @@
+﻿  graphicsclass.cpp
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(352): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(355): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(356): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(358): warning C4244: '인수': 'int'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(479): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(597): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(646): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(660): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(662): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(666): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(667): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(673): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(677): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(678): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(679): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(680): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(683): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(684): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(685): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(686): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(690): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(691): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(699): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(700): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(701): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(704): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(705): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(706): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(606): warning C4101: 'm_fireworld' :참조되지 않은 지역 변수입니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(909): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(910): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\b677004 김현진, b677005 김형호\project4\graphicsclass.cpp(924): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+Debug\modelclass.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+  Project4.vcxproj -> E:\B677004 김현진, B677005 김형호\Debug\Project4.exe
